@@ -10,7 +10,7 @@ import { getPathRoot } from '../Common/utils/urlUtils';
 
 import Spinner from '../Common/Spinner/Spinner';
 import WarningSymbol from '../Common/WarningSymbol/WarningSymbol';
-import logo from './images/white-logo.svg';
+import logo from './images/geosure.png';
 import pixHeart from './images/pix-heart.svg';
 
 import styles from './Main.scss';
