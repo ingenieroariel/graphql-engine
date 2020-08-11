@@ -207,7 +207,7 @@ class Main extends React.Component {
 
     const appPrefix = '';
 
-    const logo = require('./images/white-logo.svg');
+    const logo = require('./images/geosure.png');
     const github = require('./images/Github.svg');
     const discord = require('./images/Discord.svg');
     const mail = require('./images/mail.svg');
